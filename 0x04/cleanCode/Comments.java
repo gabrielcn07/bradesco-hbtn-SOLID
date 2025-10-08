@@ -33,6 +33,7 @@ public class Comments {
      * este método publica resultados com base na data
      * @param date the date from which to publish results
      * @return list of results
+     * @desde 16.0
      */
     public List<Result> publishResults(Date date) {
         // implementation placeholder
