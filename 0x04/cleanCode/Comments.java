@@ -11,35 +11,35 @@ public class Comments {
     }
 
     /**
-     * Este método retorna o proprietário do caso de teste.
-     * @param testcase o caso de teste
-     * @return Owner do testcase
+     * Returns the owner of the testcase.
+     * @param testcase the testcase
+     * @return Owner of the testcase
      */
     public Owner getTestcaseOwner(Testcase testcase) {
-        // implementação fictícia
+        // implementation placeholder
         return null;
     }
 
     /**
-     * Retorna horas em um trimestre.
-     * @return Hours total
+     * Returns hours in a quarter.
+     * @return total hours
      */
     public Hours getHoursInQuarter() {
-        // implementação fictícia
+        // implementation placeholder
         return null;
     }
 
     /**
-     * Este método publica resultados com base na data.
-     * @param date data a partir da qual os resultados devem ser publicados
-     * @return Lista de entidades de resultado
+     * Publishes results based on the given date.
+     * @param date the date from which to publish results
+     * @return list of results
      */
     public List<Result> publishResults(Date date) {
-        // implementação fictícia
+        // implementation placeholder
         return null;
     }
 
-    // Classes fictícias para compilação
+    // Placeholder classes for compilation
     public static class Owner {}
     public static class Testcase {}
     public static class Hours {}
