@@ -30,7 +30,7 @@ public class Comments {
     }
 
     /**
-     * Este método publica resultados com base na data.
+     * este método publica resultados com base na data
      * @param date the date from which to publish results
      * @return list of results
      */
