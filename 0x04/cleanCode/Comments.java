@@ -30,15 +30,15 @@ public class Comments {
     }
 
     /**
-     * este método publica resultados com base na data
-     * @param date the date from which to publish results
-     * @return list of results
-     * @desde 16.0
-     */
+    * Publishes results based on the given date.
+    * @param date the date from which to publish results
+    * @return list of results
+    */
     public List<Result> publishResults(Date date) {
         // implementation placeholder
         return null;
     }
+
 
     // Placeholder classes for compilation
     public static class Owner {}
