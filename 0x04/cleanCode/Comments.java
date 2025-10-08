@@ -5,6 +5,8 @@ import java.util.List;
 
 public class Comments {
 
+    // Lançado sob os termos da GNU General Public License versão 2 ou posterior
+
     // TODO Este método deve ser removido
     public void check() {
         return;
@@ -30,7 +32,7 @@ public class Comments {
     }
 
     /**
-    * este método publica resultados com base na data.
+    * este método publica resultados com base na data
     * @param date the date from which to publish results
     * @return list of results
     * @since desde 16.0
